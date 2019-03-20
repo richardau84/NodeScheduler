@@ -17,6 +17,9 @@ $ npm run watch
 
 # App configuration
 $ cp ./config/default_example.json ./config/default.json
+## WINDOWS COMMAND IS
+# $ copy /a config/default_example.json config/default.json
+
 
 # Add configuration to ./config/default.json
 # callbackURL must match Facebook app setting 
